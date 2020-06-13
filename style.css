@@ -1,0 +1,62 @@
+
+h1:hover{
+    color: rebeccapurple;
+}
+.main-div{
+    background-color: palegoldenrod;
+}
+.about-container{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.jumbotron{
+    background-color: #e3f2fd!important;
+}
+
+.about-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #e3f2fd!important;
+    padding: 30px;
+}
+.personal-information{
+    padding-top: 60px;
+}
+
+
+.about-section h2{
+    color: red;
+    text-transform: uppercase;
+}
+.personal-information h2{
+   color: green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .col-border{
+      border-right: 1px solid gray;
+  }
+
+  .new-button{
+      background-color: peru !important;
+      padding-left: 15px;
+      padding-top: 7px;
+      padding-right: 15px;
+      padding-bottom: 7px;
+      border-radius: 5px;
+      border: none;
+  }
+  .new-button :hover{
+    background-color: purple;
+  }
